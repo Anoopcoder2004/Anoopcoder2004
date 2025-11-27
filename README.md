@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Anoop!
 
-💻 I'm an Front-end developer
+💻 I'm a Front-end developer
 
 ---
 
