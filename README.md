@@ -8,7 +8,7 @@
   <img 
     alt="Anoop's Top Languages"
     src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=AnoopCoder2004&langs_count=20&layout=compact&theme=tokyonight&hide_border=true"
-    height="192px"
+    height="392px"
   />
 </a>
 
