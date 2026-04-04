@@ -4,5 +4,5 @@
 
 ## 🚀 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnoopCoder2004&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anoopcoder2004&layout=compact&theme=radical)
 
